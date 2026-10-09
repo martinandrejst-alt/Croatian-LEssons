@@ -205,8 +205,6 @@ address { font-style: normal; }
   letter-spacing: -.015em; color: #9AA0B8; text-wrap: balance;
 }
 .q-strong { color: var(--navy); }
-.big-quote footer { margin-top: 24px; font-weight: 600; color: var(--red); }
-.big-quote footer::before { content: "— "; }
 
 /* About */
 .about { display: grid; gap: 48px; align-items: center; }
